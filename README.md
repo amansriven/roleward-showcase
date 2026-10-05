@@ -14,6 +14,11 @@ want and the work you have already completed.
 [Open Roleward](https://roleward.org) · [How it works](https://roleward.org/how-it-works) · [Pricing](https://roleward.org/pricing)
 </div>
 
+> [!NOTE]
+> **The Roleward source code is private.** This repository is a public showcase
+> containing only documentation and screenshots. Code access is available to
+> recruiters and hiring teams on request.
+
 ---
 
 ## Use Roleward
